@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Array of navigation items
     const navItems = [
-        {href: '../html/hero.html', text: 'Home'},
+        {href: '../html/index.html', text: 'Home'},
         {href: '../html/about.html', text: 'About'},
         {href: '../html/skills.html', text: 'Skills'},
         {href: '../html/experience.html', text: 'Experience'},
