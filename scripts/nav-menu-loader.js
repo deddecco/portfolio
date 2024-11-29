@@ -19,13 +19,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Array of navigation items
     const navItems = [
-        {href: './html/index.html', text: 'Home'},
-        {href: './html/about.html', text: 'About'},
-        {href: './html/skills.html', text: 'Skills'},
-        {href: './html/experience.html', text: 'Experience'},
-        {href: './html/projects.html', text: 'Projects'},
-        {href: './html/social.html', text: 'Social'},
-        {href: './html/contact.html', text: 'Contact'}
+        {href: './index.html', text: 'Home'},
+        {href: './about.html', text: 'About'},
+        {href: './skills.html', text: 'Skills'},
+        {href: './experience.html', text: 'Experience'},
+        {href: './projects.html', text: 'Projects'},
+        {href: './social.html', text: 'Social'},
+        {href: './contact.html', text: 'Contact'}
     ];
 
     // Create navigation links
